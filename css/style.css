@@ -1,0 +1,116 @@
+#apple-watch-inclinado{
+    display:none;
+    
+  } 
+  @media screen 
+    and (device-width: 360px) 
+    and (device-height: 640px) 
+    and (-webkit-device-pixel-ratio: 3) {
+      #apple-watch-inclinado{
+        display:none;
+      }
+      #apple-watch-vertical{
+        display:inline;
+      }
+  }
+  .new-products-tittle{
+    padding-bottom:3%;
+    font-weight:bold;
+    text-align:center;
+    text-size:20px
+  }
+  .section-new-products{
+    background-color:#EEF1F4;
+    padding-top:3%;
+  }
+  .new-product{
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 20px;
+    border-color:transparent;
+    background-color:#FFFFFF;
+    margin:1%;
+  }
+  .new-products{
+    
+  }
+  #watch-gold{
+    padding:0;
+  }
+  .columns-testimony{
+      margin: 9%;
+      margin-top: 0;
+  }
+  .testimony{
+    margin:10%;
+    margin-right: 0;
+  }
+  .column-testimony{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 15px;
+    border-color:white;
+    background: linear-gradient(-300deg, #E4ECF0, white);
+  }
+  .testimonio{
+    padding-top:4%;
+    text-align:center;
+    font-size:30px;
+    font-weight:bold;
+  }
+  .fa-shopping-cart{
+    font-size:25px;
+  }
+  #tittle-center{
+    font-weight:bold;
+    font-size:30px;
+  }
+  .center{
+    text-align:center;
+  }
+  #watch{
+    width:70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;  
+  }
+  #lipstick{
+    width: 35%;
+  }
+  #dumblell{
+    width: 55%;
+  }
+  .columnas{
+    margin: 0% 10% 0% 10%;
+    padding: 0% 10% 0% 10% ;
+  }
+  .column-borders{
+    border-style: solid;
+    border-width: 5px;
+    border-radius: 25px;
+    border-color:white;
+  }
+  #amarillo{
+    background-color:#FEF4A2;
+  }
+  #naranja{
+    background-color:#FFDDCA;
+  }
+  #morado{
+    background-color:#ECECEC;
+  }
+  #azul{
+    background-color:#CCF8FF;
+  }
+  #rosa{
+    background-color:#FFE1E1;
+  }
+  #morado-claro{
+    background-color:#E1E3EE;
+  }
+  #naranja-claro{
+    background-color:#FBF3E7;
+  }
+  #verde{
+    background-color:#F1FBE7;
+  }
