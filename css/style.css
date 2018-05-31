@@ -1,3 +1,10 @@
+.pie-pagina{
+  padding-top: 1.5%;
+  text-align: center;
+  background-color: #F5F5F5;
+  color:black;
+  padding-bottom: 2%;
+}
 .oscuro{
   background-color: #080808;
   color:white;
