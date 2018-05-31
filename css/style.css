@@ -1,9 +1,12 @@
+#ps4{
+  background-color: #4ECDED;
+}
 .gris{
   background-color: #F5F5F5;
 }
 .columnas-tecnologia{
-  margin: 0% 10% 0% 10%;
-  padding: 0% 10% 0% 10% ;
+  margin: 0% 5% 0% 5%;
+  padding: 0% 5% 0% 5% ;
 }
 #filtros{
   padding-bottom: .5%;
