@@ -1,3 +1,26 @@
+.gris{
+  background-color: #F5F5F5;
+}
+.columnas-tecnologia{
+  margin: 0% 10% 0% 10%;
+  padding: 0% 10% 0% 10% ;
+}
+#filtros{
+  padding-bottom: .5%;
+  padding-top: .5%;
+}
+#precio{
+  color: white;
+  font-weight: bold;
+}
+#marca{
+  color: white;
+  font-weight: bold;
+}
+#a-z{
+  color: white;
+  font-weight: bold;
+}
 .pie-pagina{
   padding-top: 1.5%;
   text-align: center;
