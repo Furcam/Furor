@@ -1,3 +1,92 @@
+.precio-grande{
+  padding-top: 2%;
+  font-size: 6vh;
+}
+.titulo-compra{
+  font-size: 5vh;
+  font-weight: bold;
+}
+.espacio-titulo{
+  padding-top: 7%;
+}
+.titulo-productos-relacionados{
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  padding-bottom: 2%;
+
+}
+.margen-producto{
+  margin: 0% 5% 0% 5%;
+}
+#camara{
+  background-color: #BED499;
+}
+
+#bombox{
+  background-color: #A3DCE6;
+}
+#juego{
+  background-color:rgba(252, 184, 193, 0.918);
+}
+#pixel{
+  background-color: #E1E3EE;  
+}
+#switch{
+  background-color: #FF5C61;
+}
+#laptop{
+  background-color: #E2AFAA;
+}
+#go-pro{
+  background-color: #E1E3EE;
+}
+.precio{
+  padding-top: 7%;
+  text-align: center;
+  font-weight: bold;
+  color:#4a4a4a;
+  font-size: 18px;
+}
+#drone{
+  background-color: #FADDA4;
+}
+#xbox{
+  background-color: #abe172;
+}
+#ps4{
+  background-color: #4ECDED;
+}
+.gris{
+  background-color: #F5F5F5;
+}
+.columnas-tecnologia{
+  margin: 0% 5% 0% 5%;
+  padding: 0% 5% 0% 5% ;
+}
+#filtros{
+  padding-bottom: .5%;
+  padding-top: .5%;
+}
+#precio{
+  color: white;
+  font-weight: bold;
+}
+#marca{
+  color: white;
+  font-weight: bold;
+}
+#a-z{
+  color: white;
+  font-weight: bold;
+}
+.pie-pagina{
+  padding-top: 1.5%;
+  text-align: center;
+  background-color: #F5F5F5;
+  color:black;
+  padding-bottom: 2%;
+}
 .oscuro{
   background-color: #080808;
   color:white;
