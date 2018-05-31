@@ -1,3 +1,24 @@
+.precio-grande{
+  padding-top: 2%;
+  font-size: 6vh;
+}
+.titulo-compra{
+  font-size: 5vh;
+  font-weight: bold;
+}
+.espacio-titulo{
+  padding-top: 7%;
+}
+.titulo-productos-relacionados{
+  text-align: center;
+  font-size: 28px;
+  font-weight: bold;
+  padding-bottom: 2%;
+
+}
+.margen-producto{
+  margin: 0% 5% 0% 5%;
+}
 #camara{
   background-color: #BED499;
 }
